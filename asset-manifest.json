@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://uyasn.github.io/csb-t6n5rx/static/js/main.10eae91b.chunk.js",
+    "main.js.map": "https://uyasn.github.io/csb-t6n5rx/static/js/main.10eae91b.chunk.js.map",
+    "runtime-main.js": "https://uyasn.github.io/csb-t6n5rx/static/js/runtime-main.55fcc52c.js",
+    "runtime-main.js.map": "https://uyasn.github.io/csb-t6n5rx/static/js/runtime-main.55fcc52c.js.map",
+    "static/js/2.3b4e46f8.chunk.js": "https://uyasn.github.io/csb-t6n5rx/static/js/2.3b4e46f8.chunk.js",
+    "static/js/2.3b4e46f8.chunk.js.map": "https://uyasn.github.io/csb-t6n5rx/static/js/2.3b4e46f8.chunk.js.map",
+    "index.html": "https://uyasn.github.io/csb-t6n5rx/index.html",
+    "static/js/2.3b4e46f8.chunk.js.LICENSE.txt": "https://uyasn.github.io/csb-t6n5rx/static/js/2.3b4e46f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55fcc52c.js",
+    "static/js/2.3b4e46f8.chunk.js",
+    "static/js/main.10eae91b.chunk.js"
+  ]
+}
